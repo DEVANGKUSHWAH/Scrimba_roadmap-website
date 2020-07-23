@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-color: #555b6e;
+	color: blanchedalmond;
+	text-align: center;
+	padding: 25px 0;
+	margin-bottom: 25px;
+}
+
+main {
+	background-color: #bee3db;
+	width: 600px;
+	padding: 25px;
+	border: solid 5px #555b6e;
+	margin: 100px auto;
+}
+
+footer {
+	background-color: #89b0ae;
+	color: #faf9f9;
+	text-align: center;
+	padding: 25px 0;
+	margin-top: 25px;
+}
